@@ -11,4 +11,5 @@ admin.site.register(Bb, BbAdmin)
 
 admin.site.register(Rubric)
 
+
 # Register your models here.
